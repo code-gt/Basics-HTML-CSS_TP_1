@@ -27,7 +27,7 @@ Vous devez reproduire au plus proche la maquette fournie.
 
 ## ✔ Image à utiliser  
 Adresse de l’image :  
-[[Agent Jett](https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/94d795777116652279c4de73ba19976639c12f5d-1920x1080.jpg)](https://4kwallpapers.com/images/wallpapers/jett-valorant-pc-games-2020-games-2048x2048-2825.jpg)
+[[Agent Jett]((https://4kwallpapers.com/images/wallpapers/jett-valorant-pc-games-2020-games-2048x2048-2825.jpg))]
 
 ---
 
