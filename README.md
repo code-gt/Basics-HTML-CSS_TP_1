@@ -107,7 +107,8 @@ Vous devez utiliser **toutes** les propriétés vues dans les séances précéde
 
 # 📸 5. Maquette à reproduire
 
-[[https://i.imgur.com/8QZ8ZyA.png](https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/94d795777116652279c4de73ba19976639c12f5d-1920x1080.jpg)](https://4kwallpapers.com/images/wallpapers/jett-valorant-pc-games-2020-games-2048x2048-2825.jpg)
+![Maquette Valorant](https://sebastien-devos.fr/img/codegt/tp-base-html-css-valorant.png)
+
 
 ---
 
