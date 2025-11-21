@@ -26,8 +26,7 @@ Vous devez reproduire au plus proche la maquette fournie.
 ---
 
 ## ✔ Image à utiliser  
-Adresse de l’image :  
-https://4kwallpapers.com/images/wallpapers/jett-valorant-pc-games-2020-games-2048x2048-2825.jpg
+L'image est fournie dans le repo Github.
 
 ---
 
