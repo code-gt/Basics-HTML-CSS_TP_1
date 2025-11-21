@@ -1,7 +1,7 @@
 # 🎮 TP HTML/CSS – Carte Agent *Valorant*
 
 ## 🎯 Objectif
-Réaliser une **carte de personnage inspirée de l’univers Valorant**, en utilisant **uniquement les balises HTML et propriétés CSS vues en cours**.  
+Réaliser sur VS Code une **carte de personnage inspirée de l’univers Valorant**, en utilisant **uniquement les balises HTML et propriétés CSS vues en cours**.  
 Vous devez reproduire au plus proche la maquette fournie.
 
 ---
@@ -59,7 +59,7 @@ Les balises suivantes doivent apparaître dans votre fichier HTML :
 ---
 
 # 🎨 3. Propriétés CSS obligatoires
-Vous devez utiliser **toutes** les propriétés vues dans les séances précédentes.
+Vous devez utiliser **au maximum** les propriétés vues dans les séances précédentes.
 
 ### ✔ Texte  
 - `font-size`  
@@ -71,19 +71,20 @@ Vous devez utiliser **toutes** les propriétés vues dans les séances précéde
 - `text-decoration`
 
 ### ✔ Mise en page / apparence  
-- `background` ou `background-color`  
-- `margin`  
-- `padding`  
+- `background-color`  
+- `margin` pour la marge autour d'un élément HTML 
+- `padding` pour la marge interne d'un élément HTML 
 - `border`  
 - `border-radius`
-  `width` / `height`  
+- `width`
+- `height`  
 - centrer un élément avec `margin: auto;` et `display: block;`
 
 ---
 
 # 🗂 4. Contraintes de réalisation
 
-1. Vous devez créer **deux fichiers** :
+1. Vous devez créer **deux fichiers** et les lier :
    - `index.html`  
    - `style.css`  
 
