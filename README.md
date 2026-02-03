@@ -35,9 +35,9 @@ L'image est fournie dans le repo Github.
 | Rôle | Couleur | Code |
 |------|---------|------|
 | Couleur principale Valorant | Rouge | **#ec565b** |
-| Couleur de fond sombre | Bleu nuit | **#111922** |
+| Couleur de fond page | Bleu nuit | **#111922** |
 | Couleur texte clair | Gris clair | **#e5e5e5** |
-| Couleur texte secondaire | Gris bleuté | **#1d2732** |
+| Couleur fond carte agent | Gris bleuté | **#1d2732** |
 
 Vous devez utiliser au minimum ces quatre couleurs.
 
