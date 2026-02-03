@@ -34,10 +34,10 @@ L'image est fournie dans le repo Github.
 
 | Rôle | Couleur | Code |
 |------|---------|------|
-| Couleur principale Valorant | Rouge | **#ff4655** |
-| Couleur de fond sombre | Bleu nuit | **#0f1923** |
+| Couleur principale Valorant | Rouge | **#ec565b** |
+| Couleur de fond sombre | Bleu nuit | **#111922** |
 | Couleur texte clair | Gris clair | **#e5e5e5** |
-| Couleur texte secondaire | Gris bleuté | **#cdd6df** |
+| Couleur texte secondaire | Gris bleuté | **#1d2732** |
 
 Vous devez utiliser au minimum ces quatre couleurs.
 
@@ -99,8 +99,8 @@ Vous devez utiliser **au maximum** les propriétés vues dans les séances préc
 
 3. La carte doit être :
    - centrée dans la page  
-   - avec un fond sombre (#1a2733 ou #0f1923)  
-   - entourée d’une bordure rouge (#ff4655)  
+   - avec un fond sombre (#111922)  
+   - entourée d’une bordure rouge (#ec565b)  
    - visuellement dans le **style Valorant**
 
 ---
